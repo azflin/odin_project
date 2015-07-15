@@ -1,0 +1,23 @@
+div div {
+	height : 35px;
+	width: 35px;
+	border-style:solid;
+	border-color: black;
+	margin: 2px;
+	display: inline-block;
+}
+
+#first {
+	display: none;
+}
+
+#container {
+	margin: 0 auto;
+	display: block;
+	width: 50%;
+}
+
+h1 {
+	margin: 0 auto;
+	width: 50%;
+}
